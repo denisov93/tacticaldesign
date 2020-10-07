@@ -4,10 +4,5 @@
 }
 
 .table-center {
-  margin: auto;
-}
-
-.table-image-center {
-  width: 100%;
-  margin: auto;
+  margin: 0 2.5%;
 }
