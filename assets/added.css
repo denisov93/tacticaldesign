@@ -10,3 +10,11 @@
 #bottom20px {
   margin-bottom: 20px;
 }
+
+.p-spaced {
+  line-height: 1.4em;
+  padding-bottom: 0.4em;
+  text-indent: 1.7em;
+  text-align: justify;
+  text-justify: inter-word;
+}
